@@ -1,4 +1,4 @@
-require 'matelight'
+require './matelight.rb'
 
 class Matelife < Matelight
   def tick
